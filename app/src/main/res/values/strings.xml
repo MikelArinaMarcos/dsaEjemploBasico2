@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GitHub Followers</string>
+    <string name="buttonFollowers">EXPLORE FOLLOWERS</string>
 </resources>
